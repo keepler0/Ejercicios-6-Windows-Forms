@@ -1,0 +1,16 @@
+C:\Users\diego\source\repos\Ejercicios-1 Windows Forms\Ejercicio3ConversionKmsMillaYardas\bin\Debug\netcoreapp3.1\Ejercicio3ConversionKmsMillaYardas.exe
+C:\Users\diego\source\repos\Ejercicios-1 Windows Forms\Ejercicio3ConversionKmsMillaYardas\bin\Debug\netcoreapp3.1\Ejercicio3ConversionKmsMillaYardas.deps.json
+C:\Users\diego\source\repos\Ejercicios-1 Windows Forms\Ejercicio3ConversionKmsMillaYardas\bin\Debug\netcoreapp3.1\Ejercicio3ConversionKmsMillaYardas.runtimeconfig.json
+C:\Users\diego\source\repos\Ejercicios-1 Windows Forms\Ejercicio3ConversionKmsMillaYardas\bin\Debug\netcoreapp3.1\Ejercicio3ConversionKmsMillaYardas.runtimeconfig.dev.json
+C:\Users\diego\source\repos\Ejercicios-1 Windows Forms\Ejercicio3ConversionKmsMillaYardas\bin\Debug\netcoreapp3.1\Ejercicio3ConversionKmsMillaYardas.dll
+C:\Users\diego\source\repos\Ejercicios-1 Windows Forms\Ejercicio3ConversionKmsMillaYardas\bin\Debug\netcoreapp3.1\Ejercicio3ConversionKmsMillaYardas.pdb
+C:\Users\diego\source\repos\Ejercicios-1 Windows Forms\Ejercicio3ConversionKmsMillaYardas\obj\Debug\netcoreapp3.1\Ejercicio3ConversionKmsMillaYardas.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\Ejercicios-1 Windows Forms\Ejercicio3ConversionKmsMillaYardas\obj\Debug\netcoreapp3.1\Ejercicio3ConversionKmsMillaYardas.csproj.GenerateResource.cache
+C:\Users\diego\source\repos\Ejercicios-1 Windows Forms\Ejercicio3ConversionKmsMillaYardas\obj\Debug\netcoreapp3.1\Ejercicio3ConversionKmsMillaYardas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\Ejercicios-1 Windows Forms\Ejercicio3ConversionKmsMillaYardas\obj\Debug\netcoreapp3.1\Ejercicio3ConversionKmsMillaYardas.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\Ejercicios-1 Windows Forms\Ejercicio3ConversionKmsMillaYardas\obj\Debug\netcoreapp3.1\Ejercicio3ConversionKmsMillaYardas.AssemblyInfo.cs
+C:\Users\diego\source\repos\Ejercicios-1 Windows Forms\Ejercicio3ConversionKmsMillaYardas\obj\Debug\netcoreapp3.1\Ejercicio3ConversionKmsMillaYardas.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\Ejercicios-1 Windows Forms\Ejercicio3ConversionKmsMillaYardas\obj\Debug\netcoreapp3.1\Ejercicio3ConversionKmsMillaYardas.dll
+C:\Users\diego\source\repos\Ejercicios-1 Windows Forms\Ejercicio3ConversionKmsMillaYardas\obj\Debug\netcoreapp3.1\Ejercicio3ConversionKmsMillaYardas.pdb
+C:\Users\diego\source\repos\Ejercicios-1 Windows Forms\Ejercicio3ConversionKmsMillaYardas\obj\Debug\netcoreapp3.1\Ejercicio3ConversionKmsMillaYardas.genruntimeconfig.cache
+C:\Users\diego\source\repos\Ejercicios-1 Windows Forms\Ejercicio3ConversionKmsMillaYardas\obj\Debug\netcoreapp3.1\Ejercicio3ConversionKmsMillaYardas.conversorFrm.resources

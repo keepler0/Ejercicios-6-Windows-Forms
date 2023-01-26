@@ -1,0 +1,34 @@
+C:\Users\diego\source\repos\Ejercicios WindForms\Ejercicio 1\Ejercicio 1\bin\Debug\net6.0-windows\Ejercicio 1.exe
+C:\Users\diego\source\repos\Ejercicios WindForms\Ejercicio 1\Ejercicio 1\bin\Debug\net6.0-windows\Ejercicio 1.deps.json
+C:\Users\diego\source\repos\Ejercicios WindForms\Ejercicio 1\Ejercicio 1\bin\Debug\net6.0-windows\Ejercicio 1.runtimeconfig.json
+C:\Users\diego\source\repos\Ejercicios WindForms\Ejercicio 1\Ejercicio 1\bin\Debug\net6.0-windows\Ejercicio 1.dll
+C:\Users\diego\source\repos\Ejercicios WindForms\Ejercicio 1\Ejercicio 1\bin\Debug\net6.0-windows\Ejercicio 1.pdb
+C:\Users\diego\source\repos\Ejercicios WindForms\Ejercicio 1\Ejercicio 1\obj\Debug\net6.0-windows\Ejercicio 1.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\Ejercicios WindForms\Ejercicio 1\Ejercicio 1\obj\Debug\net6.0-windows\Ejercicio 1.csproj.GenerateResource.cache
+C:\Users\diego\source\repos\Ejercicios WindForms\Ejercicio 1\Ejercicio 1\obj\Debug\net6.0-windows\Ejercicio 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\Ejercicios WindForms\Ejercicio 1\Ejercicio 1\obj\Debug\net6.0-windows\Ejercicio 1.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\Ejercicios WindForms\Ejercicio 1\Ejercicio 1\obj\Debug\net6.0-windows\Ejercicio 1.AssemblyInfo.cs
+C:\Users\diego\source\repos\Ejercicios WindForms\Ejercicio 1\Ejercicio 1\obj\Debug\net6.0-windows\Ejercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\Ejercicios WindForms\Ejercicio 1\Ejercicio 1\obj\Debug\net6.0-windows\Ejercicio 1.dll
+C:\Users\diego\source\repos\Ejercicios WindForms\Ejercicio 1\Ejercicio 1\obj\Debug\net6.0-windows\refint\Ejercicio 1.dll
+C:\Users\diego\source\repos\Ejercicios WindForms\Ejercicio 1\Ejercicio 1\obj\Debug\net6.0-windows\Ejercicio 1.pdb
+C:\Users\diego\source\repos\Ejercicios WindForms\Ejercicio 1\Ejercicio 1\obj\Debug\net6.0-windows\Ejercicio 1.genruntimeconfig.cache
+C:\Users\diego\source\repos\Ejercicios WindForms\Ejercicio 1\Ejercicio 1\obj\Debug\net6.0-windows\ref\Ejercicio 1.dll
+C:\Users\diego\source\repos\Ejercicios WindForms\Ejercicio 1\Ejercicio 1\obj\Debug\net6.0-windows\Ejercicio_1.opBasicasForm.resources
+C:\Users\diego\source\repos\Ejercicios 6  Windows Forms\Ejercicio 1\Ejercicio 1\bin\Debug\net6.0-windows\Ejercicio 1.exe
+C:\Users\diego\source\repos\Ejercicios 6  Windows Forms\Ejercicio 1\Ejercicio 1\bin\Debug\net6.0-windows\Ejercicio 1.deps.json
+C:\Users\diego\source\repos\Ejercicios 6  Windows Forms\Ejercicio 1\Ejercicio 1\bin\Debug\net6.0-windows\Ejercicio 1.runtimeconfig.json
+C:\Users\diego\source\repos\Ejercicios 6  Windows Forms\Ejercicio 1\Ejercicio 1\bin\Debug\net6.0-windows\Ejercicio 1.dll
+C:\Users\diego\source\repos\Ejercicios 6  Windows Forms\Ejercicio 1\Ejercicio 1\bin\Debug\net6.0-windows\Ejercicio 1.pdb
+C:\Users\diego\source\repos\Ejercicios 6  Windows Forms\Ejercicio 1\Ejercicio 1\obj\Debug\net6.0-windows\Ejercicio 1.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\Ejercicios 6  Windows Forms\Ejercicio 1\Ejercicio 1\obj\Debug\net6.0-windows\Ejercicio_1.opBasicasForm.resources
+C:\Users\diego\source\repos\Ejercicios 6  Windows Forms\Ejercicio 1\Ejercicio 1\obj\Debug\net6.0-windows\Ejercicio 1.csproj.GenerateResource.cache
+C:\Users\diego\source\repos\Ejercicios 6  Windows Forms\Ejercicio 1\Ejercicio 1\obj\Debug\net6.0-windows\Ejercicio 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\Ejercicios 6  Windows Forms\Ejercicio 1\Ejercicio 1\obj\Debug\net6.0-windows\Ejercicio 1.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\Ejercicios 6  Windows Forms\Ejercicio 1\Ejercicio 1\obj\Debug\net6.0-windows\Ejercicio 1.AssemblyInfo.cs
+C:\Users\diego\source\repos\Ejercicios 6  Windows Forms\Ejercicio 1\Ejercicio 1\obj\Debug\net6.0-windows\Ejercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\Ejercicios 6  Windows Forms\Ejercicio 1\Ejercicio 1\obj\Debug\net6.0-windows\Ejercicio 1.dll
+C:\Users\diego\source\repos\Ejercicios 6  Windows Forms\Ejercicio 1\Ejercicio 1\obj\Debug\net6.0-windows\refint\Ejercicio 1.dll
+C:\Users\diego\source\repos\Ejercicios 6  Windows Forms\Ejercicio 1\Ejercicio 1\obj\Debug\net6.0-windows\Ejercicio 1.pdb
+C:\Users\diego\source\repos\Ejercicios 6  Windows Forms\Ejercicio 1\Ejercicio 1\obj\Debug\net6.0-windows\Ejercicio 1.genruntimeconfig.cache
+C:\Users\diego\source\repos\Ejercicios 6  Windows Forms\Ejercicio 1\Ejercicio 1\obj\Debug\net6.0-windows\ref\Ejercicio 1.dll

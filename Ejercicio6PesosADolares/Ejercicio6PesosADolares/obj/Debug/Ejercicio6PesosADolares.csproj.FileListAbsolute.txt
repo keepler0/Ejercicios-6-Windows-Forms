@@ -1,0 +1,21 @@
+C:\Users\diego\source\repos\Ejercicio6PesosADolares\Ejercicio6PesosADolares\bin\Debug\Ejercicio6PesosADolares.exe.config
+C:\Users\diego\source\repos\Ejercicio6PesosADolares\Ejercicio6PesosADolares\bin\Debug\Ejercicio6PesosADolares.exe
+C:\Users\diego\source\repos\Ejercicio6PesosADolares\Ejercicio6PesosADolares\bin\Debug\Ejercicio6PesosADolares.pdb
+C:\Users\diego\source\repos\Ejercicio6PesosADolares\Ejercicio6PesosADolares\obj\Debug\Ejercicio6PesosADolares.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\Ejercicio6PesosADolares\Ejercicio6PesosADolares\obj\Debug\Ejercicio6PesosADolares.compraDolaresFrm.resources
+C:\Users\diego\source\repos\Ejercicio6PesosADolares\Ejercicio6PesosADolares\obj\Debug\Ejercicio6PesosADolares.Form2.resources
+C:\Users\diego\source\repos\Ejercicio6PesosADolares\Ejercicio6PesosADolares\obj\Debug\Ejercicio6PesosADolares.Properties.Resources.resources
+C:\Users\diego\source\repos\Ejercicio6PesosADolares\Ejercicio6PesosADolares\obj\Debug\Ejercicio6PesosADolares.csproj.GenerateResource.cache
+C:\Users\diego\source\repos\Ejercicio6PesosADolares\Ejercicio6PesosADolares\obj\Debug\Ejercicio6PesosADolares.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\Ejercicio6PesosADolares\Ejercicio6PesosADolares\obj\Debug\Ejercicio6PesosADolares.exe
+C:\Users\diego\source\repos\Ejercicio6PesosADolares\Ejercicio6PesosADolares\obj\Debug\Ejercicio6PesosADolares.pdb
+C:\Users\diego\source\repos\Ejercicios 6  Windows Forms\Ejercicio6PesosADolares\Ejercicio6PesosADolares\bin\Debug\Ejercicio6PesosADolares.exe.config
+C:\Users\diego\source\repos\Ejercicios 6  Windows Forms\Ejercicio6PesosADolares\Ejercicio6PesosADolares\bin\Debug\Ejercicio6PesosADolares.exe
+C:\Users\diego\source\repos\Ejercicios 6  Windows Forms\Ejercicio6PesosADolares\Ejercicio6PesosADolares\bin\Debug\Ejercicio6PesosADolares.pdb
+C:\Users\diego\source\repos\Ejercicios 6  Windows Forms\Ejercicio6PesosADolares\Ejercicio6PesosADolares\obj\Debug\Ejercicio6PesosADolares.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\Ejercicios 6  Windows Forms\Ejercicio6PesosADolares\Ejercicio6PesosADolares\obj\Debug\Ejercicio6PesosADolares.compraDolaresFrm.resources
+C:\Users\diego\source\repos\Ejercicios 6  Windows Forms\Ejercicio6PesosADolares\Ejercicio6PesosADolares\obj\Debug\Ejercicio6PesosADolares.Properties.Resources.resources
+C:\Users\diego\source\repos\Ejercicios 6  Windows Forms\Ejercicio6PesosADolares\Ejercicio6PesosADolares\obj\Debug\Ejercicio6PesosADolares.csproj.GenerateResource.cache
+C:\Users\diego\source\repos\Ejercicios 6  Windows Forms\Ejercicio6PesosADolares\Ejercicio6PesosADolares\obj\Debug\Ejercicio6PesosADolares.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\Ejercicios 6  Windows Forms\Ejercicio6PesosADolares\Ejercicio6PesosADolares\obj\Debug\Ejercicio6PesosADolares.exe
+C:\Users\diego\source\repos\Ejercicios 6  Windows Forms\Ejercicio6PesosADolares\Ejercicio6PesosADolares\obj\Debug\Ejercicio6PesosADolares.pdb

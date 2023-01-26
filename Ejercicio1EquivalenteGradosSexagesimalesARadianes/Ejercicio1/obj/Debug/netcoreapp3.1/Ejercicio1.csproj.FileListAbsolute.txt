@@ -1,0 +1,17 @@
+C:\Users\diego\source\repos\Ejercicios-1 Windows Forms\Ejercicio1EquivalenteGradosSexagesimalesARadianes\Ejercicio1\bin\Debug\netcoreapp3.1\Ejercicio1.exe
+C:\Users\diego\source\repos\Ejercicios-1 Windows Forms\Ejercicio1EquivalenteGradosSexagesimalesARadianes\Ejercicio1\bin\Debug\netcoreapp3.1\Ejercicio1.deps.json
+C:\Users\diego\source\repos\Ejercicios-1 Windows Forms\Ejercicio1EquivalenteGradosSexagesimalesARadianes\Ejercicio1\bin\Debug\netcoreapp3.1\Ejercicio1.runtimeconfig.json
+C:\Users\diego\source\repos\Ejercicios-1 Windows Forms\Ejercicio1EquivalenteGradosSexagesimalesARadianes\Ejercicio1\bin\Debug\netcoreapp3.1\Ejercicio1.runtimeconfig.dev.json
+C:\Users\diego\source\repos\Ejercicios-1 Windows Forms\Ejercicio1EquivalenteGradosSexagesimalesARadianes\Ejercicio1\bin\Debug\netcoreapp3.1\Ejercicio1.dll
+C:\Users\diego\source\repos\Ejercicios-1 Windows Forms\Ejercicio1EquivalenteGradosSexagesimalesARadianes\Ejercicio1\bin\Debug\netcoreapp3.1\Ejercicio1.pdb
+C:\Users\diego\source\repos\Ejercicios-1 Windows Forms\Ejercicio1EquivalenteGradosSexagesimalesARadianes\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\Ejercicios-1 Windows Forms\Ejercicio1EquivalenteGradosSexagesimalesARadianes\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1.Ejercicio1GradosSexagesimalesARadianes.resources
+C:\Users\diego\source\repos\Ejercicios-1 Windows Forms\Ejercicio1EquivalenteGradosSexagesimalesARadianes\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1.csproj.GenerateResource.cache
+C:\Users\diego\source\repos\Ejercicios-1 Windows Forms\Ejercicio1EquivalenteGradosSexagesimalesARadianes\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\Ejercicios-1 Windows Forms\Ejercicio1EquivalenteGradosSexagesimalesARadianes\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\Ejercicios-1 Windows Forms\Ejercicio1EquivalenteGradosSexagesimalesARadianes\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1.AssemblyInfo.cs
+C:\Users\diego\source\repos\Ejercicios-1 Windows Forms\Ejercicio1EquivalenteGradosSexagesimalesARadianes\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\Ejercicios-1 Windows Forms\Ejercicio1EquivalenteGradosSexagesimalesARadianes\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1.dll
+C:\Users\diego\source\repos\Ejercicios-1 Windows Forms\Ejercicio1EquivalenteGradosSexagesimalesARadianes\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1.pdb
+C:\Users\diego\source\repos\Ejercicios-1 Windows Forms\Ejercicio1EquivalenteGradosSexagesimalesARadianes\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1.genruntimeconfig.cache
+C:\Users\diego\source\repos\Ejercicios-1 Windows Forms\Ejercicio1EquivalenteGradosSexagesimalesARadianes\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1.Properties.Resources.resources

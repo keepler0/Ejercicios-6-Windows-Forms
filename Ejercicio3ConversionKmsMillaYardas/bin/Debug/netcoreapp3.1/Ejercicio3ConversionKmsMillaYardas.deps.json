@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ejercicio3ConversionKmsMillaYardas/1.0.0": {
+        "runtime": {
+          "Ejercicio3ConversionKmsMillaYardas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio3ConversionKmsMillaYardas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
